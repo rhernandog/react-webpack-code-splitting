@@ -4,7 +4,7 @@ Simple example for creating code splitting using React Router V4
 Since the deprecation of `System.import` by Webpack v3.x, the switch has been made to use [Dynamic Import](https://github.com/tc39/proposal-dynamic-import).
 Using this [Gist](https://gist.github.com/acdlite/a68433004f9d6b4cbc83b5cc3990c194) by [Andrew Clark](https://github.com/acdlite) as inspiration I came up with this simple React app that uses React Router V4.x and Webpack 3.x to create the bundle files.
 ## Live Sample
-No live sample yet.
+- https://rhernandog.github.io/react-webpack-code-splitting/
 ## Installation
 Clone this repo:
 ```
