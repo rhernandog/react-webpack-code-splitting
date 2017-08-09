@@ -1,0 +1,43 @@
+{
+	"name": "react_code_splitting_router_v4",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack",
+		"server": "webpack-dev-server",
+		"production": "set NODE_ENV=production && npm run clean && webpack"
+	},
+	"author": {
+		"name": "Rodrigo Hernando",
+		"url": "https://github.com/rhernandog",
+		"email": "rhernandog@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rhernandog/react-webpack-code-splitting.git"
+	},
+	"homepage": "",
+	"bugs": {
+		"url": "https://github.com/rhernandog/react-webpack-code-splitting/issues"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"lodash": "^4.17.4",
+		"react": "^15.6.1",
+		"react-dom": "^15.6.1",
+		"react-router-dom": "^4.1.2"
+	},
+	"devDependencies": {
+		"babel-core": "^6.25.0",
+		"babel-loader": "^7.1.1",
+		"babel-plugin-dynamic-import-webpack": "^1.0.1",
+		"babel-preset-env": "^1.6.0",
+		"babel-preset-react": "^6.24.1",
+		"file-loader": "^0.11.2",
+		"html-webpack-plugin": "^2.30.1",
+		"image-webpack-loader": "^3.3.1",
+		"webpack": "^3.4.1",
+		"webpack-clean-obsolete-chunks": "^0.2.0",
+		"webpack-dev-server": "^2.6.1"
+	}
+}
