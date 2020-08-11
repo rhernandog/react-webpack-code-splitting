@@ -38,6 +38,6 @@
 		"image-webpack-loader": "^3.3.1",
 		"webpack": "^3.4.1",
 		"webpack-clean-obsolete-chunks": "^0.2.0",
-		"webpack-dev-server": "^2.6.1"
+		"webpack-dev-server": "^3.1.11"
 	}
 }
