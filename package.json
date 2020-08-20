@@ -23,9 +23,9 @@
 	"license": "MIT",
 	"dependencies": {
 		"lodash": "^4.17.19",
-		"react": "^15.6.1",
-		"react-dom": "^15.6.1",
-		"react-router-dom": "^4.1.2"
+		"react": "^15.6.2",
+		"react-dom": "^15.6.2",
+		"react-router-dom": "^4.3.1"
 	},
 	"devDependencies": {
 		"babel-core": "^6.25.0",
@@ -38,6 +38,6 @@
 		"image-webpack-loader": "^3.3.1",
 		"webpack": "^3.4.1",
 		"webpack-clean-obsolete-chunks": "^0.2.0",
-		"webpack-dev-server": "^3.1.11"
+		"webpack-dev-server": "^3.11.0"
 	}
 }
